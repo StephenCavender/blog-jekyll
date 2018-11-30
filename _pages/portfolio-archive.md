@@ -5,7 +5,11 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+author_profile: false
 ---
 
-## Resume
-Want to check out my resume? Take a gander [online](https://resume.creddle.io/resume/1g0cxl7g7bk) or view/download: [pdf](http://goo.gl/WZh0wX)/[docx](https://1drv.ms/w/s!Agbozsck_eAQk6JGSLXbXqJbEkJL0w).
+## GitHub
+Check out my repos on [GitHub](https://github.com/stephencavender)
+
+## Résumé
+Take a look at my [résumé]({{ site.url }}{{ site.baseurl }}/assets/stephen-cavender-resume.pdf).
