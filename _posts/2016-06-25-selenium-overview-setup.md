@@ -1,16 +1,16 @@
 ---
 title: Selenium Overview & Setup
-modified:
+modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick overview of Selenium and guide on getting it ready for glory!
-tags: []
+tags: [selenium]
 date: 2016-06-25
 ---
 
 ## Quick Selenium Overview
 In this article we'll explore what Selenium is and how to prep our environment to use it.
 
-> Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers. - From <https://seleniumhq.github.io/docs/index.html> 
+> Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers. - From <https://seleniumhq.github.io/docs/index.html>
 
 Selenium enables us to:
 

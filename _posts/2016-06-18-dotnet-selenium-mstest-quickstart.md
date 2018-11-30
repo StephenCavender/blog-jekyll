@@ -1,9 +1,9 @@
 ---
 title: C# Selenium MSTest QuickStart Guide
-modified: 2016-09-16
+modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick how-to on setting up a solution using MSTest and Selenium!
-tags: [Selenium, MSTest, dotnet]
+tags: [Selenium, MSTest, dotnet, windows]
 ---
 
 ## Getting started with C#, Selenium and MSTest!
@@ -69,8 +69,6 @@ Now that we have a functional test we can run it. First, if the Test Explorer is
 
 Our test isn't showing up yet. We need to build the solution for it to recognize that we've written a test it can run. Right click on the solution in the Solution Explorer and Build or Rebuild the solution. If the build is successful we should see our test show up in the Test Explorer. Now we can right click on our test and tell it to run. If all went according to plan we should see a Chrome window pop up, navigate to Google's home page and then close.
 
-This is a basic, and brittle, example of how Selenium works. If our assertion returns false the test will report a failure but the browser window will still be alive. This test is brittle in that it can't run any code after the Assert if the Assert returns false. We'll cover a much better testing approach in a later post to avoid such things! This is not an example of best practices by any means. This is to get you a working example of Selenium. Stay tuned for more posts on how to use Selenium, best practices for automating tests and video tutorials!
+This is a basic, and brittle, example of how Selenium works. If our assertion returns false the test will report a failure but the browser window will still be alive. This test is brittle in that it can't run any code after the Assert if the Assert returns false. We'll cover a much better testing approach in a later post to avoid such things! This is not an example of best practices by any means. This is to get you a working example of Selenium. Stay tuned for more posts on how to use Selenium and best practices for automating tests!
 
-Repo: [selenium-csharp-mstest](https://github.com/StephenCavender/selenium-csharp-mstest)
-
-Thanks for reading! Be sure to share this post if you found it helpful and don't hesitate to chat with me about it!
+Thanks for reading! I hope you found it helpful!

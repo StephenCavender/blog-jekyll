@@ -1,9 +1,9 @@
 ---
 title: JavaScript Selenium Mocha QuickStart Guide
-modified: 2016-09-17
+modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick how-to on setting up a NodeJS project using Mocha and Selenium!
-tags: [Selenium, Mocha, JavaScript, NodeJS]
+tags: [Selenium, Mocha, JavaScript, NodeJS, windows]
 ---
 
 ## Getting started with JavaScript, Selenium and Mocha!
@@ -135,8 +135,6 @@ This is how the command prompt displays our test run:
 And this is how bash displays our test run:
 ![Bash test run]({{ site.url }}{{ site.baseurl }}/assets/images/js-selenium-mocha/npmTestBash.png "Bash test run")
 
-This is a basic, and brittle, example of how Selenium works. We'll cover a much better testing approach in a later post to avoid such things! This is not an example of best practices by any means. This is to get you a working example of Selenium. Stay tuned for more posts on how to use Selenium, best practices for automating tests and video tutorials!
+This is a basic, and brittle, example of how Selenium works. We'll cover a much better testing approach in a later post to avoid such things! This is not an example of best practices by any means. This is to get you a working example of Selenium. Stay tuned for more posts on how to use Selenium and best practices for automating tests!
 
-Repo: [selenium-js-mocha](https://github.com/StephenCavender/selenium-js-mocha)
-
-Thanks for reading! Be sure to share this post if you found it helpful and don't hesitate to chat with me about it!
+Thanks for reading! I hope you found it helpful!
