@@ -95,9 +95,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-65878452-1
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 # Site Author
@@ -108,6 +108,9 @@ author:
   location         : "Westfield, IN"
   email            :
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/cavenderstephen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stephencavender"
