@@ -2,7 +2,7 @@
 title: About Me
 published: true
 permalink: /about/
-author_profile: false
+classes: wide
 ---
 
 I'm a [believer](https://nspire.church), husband, father, [stoic](http://aom.is/stoic), [developer](https://github.com/StephenCavender), gamer, guitarist, and [crossfitter](http://bbzwestfield.com). I'm a software engineer at [Genesys](https://genesys.com) but this blog, its content, and opinions are my own.

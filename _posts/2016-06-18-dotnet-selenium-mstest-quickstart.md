@@ -4,6 +4,7 @@ modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick how-to on setting up a solution using MSTest and Selenium!
 tags: [Selenium, MSTest, dotnet, windows]
+classes: wide
 ---
 
 ## Getting started with C#, Selenium and MSTest!

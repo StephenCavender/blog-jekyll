@@ -4,6 +4,7 @@ modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick how-to on setting up a NodeJS project using Mocha and Selenium!
 tags: [Selenium, Mocha, JavaScript, NodeJS, windows]
+classes: wide
 ---
 
 ## Getting started with JavaScript, Selenium and Mocha!

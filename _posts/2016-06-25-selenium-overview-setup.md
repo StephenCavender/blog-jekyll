@@ -5,6 +5,7 @@ categories: [Selenium]
 excerpt: A quick overview of Selenium and guide on getting it ready for glory!
 tags: [selenium]
 date: 2016-06-25
+classes: wide
 ---
 
 ## Quick Selenium Overview
