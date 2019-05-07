@@ -8,3 +8,6 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Résumé"
+    url: /assets/stephen-cavender-resume.pdf
