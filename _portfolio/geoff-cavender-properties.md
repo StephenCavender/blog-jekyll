@@ -1,6 +1,6 @@
 ---
 title: "Geoff Cavender Properties"
-excerpt: "A real estate agent's site/blog. (Happens to be my brother)"
+excerpt: "A real estate agent's site/blog."
 header:
   image: assets/images/portfolio/geoff-cavender-properties/screenshot.png
   teaser: assets/images/portfolio/geoff-cavender-properties/screenshot.png
