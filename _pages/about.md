@@ -6,15 +6,14 @@ classes: wide
 ---
 
 I am a:
-* Believer. My family and I attend [Nspire Church](https://nspire.church) here in Westfield
+* Believer. My family and I attend [Nspire Church](https://nspire.church){:target="_blank"} here in Westfield
 * Husband to the most amazing woman
 * Father to my favorite daughter
-* [Stoic](https://aom.is/stoic) seeking to live my best life
-* [Developer](https://github.com/StephenCavender) creating awesome user expierences on the web
-* Gamer
-* Guitarist
+* [Strenuous Life](https://strenuouslife.co/){:target="_blank"} member doing hard things
+* [Stoic](https://aom.is/stoic){:target="_blank"} seeking to live virtuously
+* [Developer](https://github.com/StephenCavender){:target="_blank"} creating awesome user experiences on the web
 
-I'm also a software engineer at [Genesys](https://genesys.com) but this blog, its content, and opinions are my own.
+I'm also a software engineer at [Genesys](https://genesys.com){:target="_blank"} but this site, its content, and opinions are my own.
 
 ### About this Site
-I'm blogging to help strengthen my understandings of various topics and to engage and share with the community. I'll write about technologies I use and/or am interested in.
+I'm blogging to help strengthen my understandings of various topics and to engage and share with the community. I'll write posts about technologies I use and/or am interested in and essays about life.
