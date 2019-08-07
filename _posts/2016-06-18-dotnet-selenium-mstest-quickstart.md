@@ -13,13 +13,13 @@ In this article we'll be using MSTest and Selenium to write tests for web applic
 ### Requirements
 Here are the requirements before we get started:
 
- * [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx) (A Microsoft Integrated Development Environment or IDE)
- * [Nuget](http://docs.nuget.org/consume/installing-nuget) (A package manager for Visual Studio)
- * [Selenium C# language bindings](http://docs.seleniumhq.org/download/) (But we'll use NuGet to grab these)
- * Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp)
+ * [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx){:target="_blank"} (A Microsoft Integrated Development Environment or IDE)
+ * [Nuget](http://docs.nuget.org/consume/installing-nuget){:target="_blank"} (A package manager for Visual Studio)
+ * [Selenium C# language bindings](http://docs.seleniumhq.org/download/){:target="_blank"} (But we'll use NuGet to grab these)
+ * Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp){:target="_blank"}
 
 ### Selenium Prep
-If you haven't read through my quick [Overview of Selenium]({{ site.url }}{{ site.baseurl }}/selenium/selenium-overview-setup) you should do that now. Selenium will need a few things configured before it'll do its magic!
+If you haven't read through my quick [Overview of Selenium]({{ site.url }}{{ site.baseurl }}/selenium/selenium-overview-setup){:target="_blank"} you should do that now. Selenium will need a few things configured before it'll do its magic!
 
 ### Create Project
 To kick things off we'll need a new project.
@@ -40,9 +40,9 @@ Select Browse, search for 'Selenium' and install both Selenium.WebDriver and Sel
 
 ### Write Test
 Now the fun begins; we can write the first Selenium test!
-We'll write our test against [The Internet](http://the-internet.herokuapp.com/)[^theinternet].
+We'll write our test against [The Internet](http://the-internet.herokuapp.com/){:target="_blank"}[^theinternet].
 
-[^theinternet]: Credit to [Dave Haeffner](http://davehaeffner.com/).
+[^theinternet]: Credit to [Dave Haeffner](http://davehaeffner.com/){:target="_blank"}.
 
 Here's some code to put inside the **TestMethod1()**
 
