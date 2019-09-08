@@ -3,9 +3,6 @@ main:
   - title: "Posts"
     url: /posts/
 
-  - title: "Essays"
-    url: /essays/
-
   - title: "About"
     url: /about/
 
