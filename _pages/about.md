@@ -6,12 +6,12 @@ classes: wide
 ---
 
 I am a:
-* Believer. My family and I attend [Nspire Church](https://nspire.church){:target="_blank"} here in Westfield
+* Christian. My family and I attend [Nspire Church](https://nspire.church){:target="_blank"} here in Westfield
 * Husband to the most amazing woman
 * Father to my favorite daughter
 * [Strenuous Life](https://strenuouslife.co/){:target="_blank"} member doing hard things
 * [Stoic](https://aom.is/stoic){:target="_blank"} seeking to live virtuously
-* [Developer](https://github.com/StephenCavender){:target="_blank"} creating awesome user experiences on the web
+* [Developer](https://github.com/StephenCavender){:target="_blank"} creating awesome things
 
 I'm also a software engineer at [Genesys](https://genesys.com){:target="_blank"} but this site, its content, and opinions are my own.
 
