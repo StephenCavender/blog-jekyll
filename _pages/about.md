@@ -7,8 +7,8 @@ classes: wide
 
 I am a:
 * Christian. My family and I attend [Nspire Church](https://nspire.church){:target="_blank"} here in Westfield
-* Husband to the most amazing woman
-* Father to my favorite daughter
+* Husband to my amazing wife
+* Father to my beautiful daughter
 * [Strenuous Life](https://strenuouslife.co/){:target="_blank"} member doing hard things
 * [Stoic](https://aom.is/stoic){:target="_blank"} seeking to live virtuously
 * [Developer](https://github.com/StephenCavender){:target="_blank"} creating awesome things
