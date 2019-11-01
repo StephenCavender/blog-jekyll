@@ -20,7 +20,7 @@ Here are the requirements before we get started:
 * Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp){:target="_blank"}
 
 ### Selenium Prep
-If you haven't read through my quick [Overview of Selenium]({{ site.url }}{{ site.baseurl }}/selenium/selenium-overview-setup){:target="_blank"} you should do that now. Selenium will need a few things configured before it'll do its magic!
+If you haven't read through my quick [Overview of Selenium]({% post_url 2016-06-25-selenium-overview-setup %}) you should do that now. Selenium will need a few things configured before it'll do its magic!
 
 ### NodeJs Tutorial
 If you're unfamiliar with NodeJS I recommend this tutorial to get you started: [NodeHero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/){:target="_blank"}. It's packed with helpful information. It's a good resource to keep open in a tab while working through this post.

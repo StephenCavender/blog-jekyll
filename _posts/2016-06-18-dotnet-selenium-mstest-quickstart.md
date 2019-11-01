@@ -19,7 +19,7 @@ Here are the requirements before we get started:
  * Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp){:target="_blank"}
 
 ### Selenium Prep
-If you haven't read through my quick [Overview of Selenium]({{ site.url }}{{ site.baseurl }}/selenium/selenium-overview-setup){:target="_blank"} you should do that now. Selenium will need a few things configured before it'll do its magic!
+If you haven't read through my quick [Overview of Selenium]({% post_url 2016-06-25-selenium-overview-setup %}) you should do that now. Selenium will need a few things configured before it'll do its magic!
 
 ### Create Project
 To kick things off we'll need a new project.
