@@ -9,6 +9,7 @@ header:
   overlay_image: /assets/images/linux-dual-boot/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by [Marko Blažević](https://unsplash.com/@kerber) on [Unsplash](https://unsplash.com)"
+published: false
 ---
 ## Why Linux
 I've always heard that Linux is the way to go but I never tried it. I had Windows and it worked fine for me. I took some training at work that required Linux so I started using it inside a virtual machine. I got comfortable with it and decided it would be fun to try at home.
