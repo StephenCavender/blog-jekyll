@@ -23,6 +23,7 @@ url                      : https://www.cavender.dev # the base hostname & protoc
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : StephenCavender/stephencavender.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+future                   : false
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
