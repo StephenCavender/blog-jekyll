@@ -1,6 +1,6 @@
 ---
 title: Dual-booting Linux Mint
-date: 2019-11-15
+date: 2019-11-06
 categories: [Linux]
 excerpt: How and why I installed Linux Mint and chose to dual-boot between it and Windows
 tags: [Linux]
