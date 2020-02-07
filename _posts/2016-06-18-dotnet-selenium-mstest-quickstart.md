@@ -1,10 +1,16 @@
 ---
 title: C# Selenium MSTest QuickStart Guide
+date: 2016-06-18
 modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick how-to on setting up a solution using MSTest and Selenium!
 tags: [Selenium, MSTest, dotnet, windows]
 classes: wide
+header:
+  overlay_image: /assets/images/dotnet-selenium-mstest/header.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo by [Andras Vas](https://unsplash.com/@wasdrew) on [Unsplash](https://unsplash.com)"
+
 ---
 
 ## Getting started with C#, Selenium and MSTest!

@@ -1,11 +1,15 @@
 ---
 title: Selenium Overview & Setup
+date: 2016-06-25
 modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick overview of Selenium and guide on getting it ready for glory!
 tags: [selenium]
-date: 2016-06-25
 classes: wide
+header:
+  overlay_image: /assets/images/selenium-overview/header.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo by [Philipp Katzenberger](https://unsplash.com/@fantasyflip) on [Unsplash](https://unsplash.com)"
 ---
 
 ## Quick Selenium Overview

@@ -1,10 +1,15 @@
 ---
 title: JavaScript Selenium Mocha QuickStart Guide
+date: 2016-07-20
 modified: 2018-11-15
 categories: [Selenium]
 excerpt: A quick how-to on setting up a NodeJS project using Mocha and Selenium!
 tags: [Selenium, Mocha, JavaScript, NodeJS, windows]
 classes: wide
+header:
+  overlay_image: /assets/images/js-selenium-mocha/header.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo by [Ilya Pavlov](https://unsplash.com/@ilyapavlov) on [Unsplash](https://unsplash.com)"
 ---
 
 ## Getting started with JavaScript, Selenium and Mocha!
