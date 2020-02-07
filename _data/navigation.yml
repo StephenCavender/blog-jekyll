@@ -1,13 +1,6 @@
-# main links
 main:
   - title: "Posts"
     url: /posts/
 
-  - title: "About"
-    url: /about/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Résumé"
-    url: /assets/stephen-cavender-resume.pdf
+  - title: "Work"
+    url: /work/
