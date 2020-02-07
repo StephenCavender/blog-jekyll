@@ -1,6 +1,7 @@
 ---
 title: Dual-booting Linux Mint
 date: 2019-11-08
+modified: 2019-11-08
 categories: [Linux]
 excerpt: How and why I installed Linux Mint and chose to dual-boot between it and Windows
 tags: [Linux]
@@ -39,7 +40,7 @@ My first attempt didn't take because I didn't have any room. I ended up freeing 
 ![Disk Management](/assets/images/linux-dual-boot/disk.png)
 
 ### 5. Update Boot Configuration
-I had to disable secure boot and change the boot order in the BIOS. 
+I had to disable secure boot and change the boot order in the BIOS.
 
 ### 6. Install Mint
 I followed the on-screen instructions at this point. Here are the important bits:
