@@ -30,7 +30,7 @@ search: true
 author:
   name: "Stephen Cavender"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Front-End Developer"
+  bio: "Full-Stack Developer"
   location: "Indy"
   links:
     - label: "GitHub"
