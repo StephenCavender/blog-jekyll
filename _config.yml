@@ -57,7 +57,7 @@ footer:
       url: "https://linkedin.com/in/stephencavender"
     - label: "Resume"
       icon: "fas fa-fw fa-file"
-      url: "/assets/stephen-cavender-resume.pdf"
+      url: "https://user.fm/files/v2-7b0a16acccabee1e2ba69d64b65bf5ad/resume_dev.pdf"
 
 # Reading Files
 include:
