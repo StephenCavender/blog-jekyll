@@ -31,7 +31,7 @@ author:
   name: "Stephen Cavender"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Full-Stack Developer"
-  location: "Indy"
+  # location: ""
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
