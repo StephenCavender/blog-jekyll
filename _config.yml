@@ -101,7 +101,6 @@ collections:
 
 # Post/Page and collection defaults
 defaults:
-  # Posts
   - scope:
       path: ""
       type: posts
@@ -112,7 +111,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # Pages
   - scope:
       path: ""
       type: pages
@@ -120,3 +118,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  - scope:
+      path: "_work"
+    values:
+      layout: single
