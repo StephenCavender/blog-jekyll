@@ -1,8 +1,8 @@
 ---
-title: Work
+title: Portfolio
 layout: collection
-permalink: /work/
-collection: work
+permalink: /portfolio/
+collection: portfolio
 entries_layout: grid
 classes: wide
 ---

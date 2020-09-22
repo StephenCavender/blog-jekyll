@@ -107,7 +107,7 @@ tag_archive:
 
 # Collections
 collections:
-  work:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
@@ -131,6 +131,6 @@ defaults:
       author_profile: true
       share: false
   - scope:
-      path: "_work"
+      path: "_portfolio"
     values:
       layout: single
