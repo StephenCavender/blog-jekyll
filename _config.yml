@@ -45,25 +45,31 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/stephencavender"
+    - label: "Buy Me A Coffee"
+      icon: "fas fa-fw fa-coffee"
+      url: "https://buymeacoffee.com/cavender"
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stephencavender"
-    - label: "GitLab"
+    - label: ""
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/stephen.cavender"
-    - label: "Dev.to"
+    - label: ""
       icon: "fab fa-fw fa-dev"
       url: "https://dev.to/stephencavender"
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/stephencavender"
     - label: "Resume"
       icon: "fas fa-fw fa-file"
       url: "/assets/files/stephen-cavender-resume.pdf"
+    - label: "Buy Me A Coffee"
+      icon: "fas fa-fw fa-coffee"
+      url: "https://buymeacoffee.com/cavender"
 
 # Reading Files
 include:
