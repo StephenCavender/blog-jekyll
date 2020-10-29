@@ -110,6 +110,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /:collection/:path/
 
 # Post/Page and collection defaults
 defaults:
@@ -132,5 +135,9 @@ defaults:
       share: false
   - scope:
       path: "_portfolio"
+    values:
+      layout: single
+  - scope:
+      path: "_courses"
     values:
       layout: single
