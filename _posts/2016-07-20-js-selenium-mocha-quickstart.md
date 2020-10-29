@@ -7,7 +7,7 @@ excerpt: A quick how-to on setting up a NodeJS project using Mocha and Selenium!
 tags: [Selenium, Mocha, JavaScript, NodeJS, windows]
 classes: wide
 header:
-  overlay_image: /assets/images/js-selenium-mocha/header.jpg
+  overlay_image: /assets/images/posts/js-selenium-mocha/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by [Ilya Pavlov](https://unsplash.com/@ilyapavlov) on [Unsplash](https://unsplash.com)"
 ---
@@ -47,7 +47,7 @@ NPM is also responsible for installing packages. The command for installing a pa
 These will install in the **node_modules** folder and get tracked in our **package.json** file.
 
 Here's what our folder structure looks like:
-![Folder structure]({{ site.url }}{{ site.baseurl }}/assets/images/js-selenium-mocha/structure.png "Folder structure")
+![Folder structure]({{ site.url }}{{ site.baseurl }}/assets/images/posts/js-selenium-mocha/structure.png "Folder structure")
 
 We can now write our first test and use our installed packages! Here's what the package.json file should look like at this point:
 
@@ -136,10 +136,10 @@ Run that in the command prompt and we should see our test run and the command pr
 `npm test`
 
 This is how the command prompt displays our test run:
-![Command prompt test run]({{ site.url }}{{ site.baseurl }}/assets/images/js-selenium-mocha/npmTestCmd.png "Command prompt test run")
+![Command prompt test run]({{ site.url }}{{ site.baseurl }}/assets/images/posts/js-selenium-mocha/npmTestCmd.png "Command prompt test run")
 
 And this is how bash displays our test run:
-![Bash test run]({{ site.url }}{{ site.baseurl }}/assets/images/js-selenium-mocha/npmTestBash.png "Bash test run")
+![Bash test run]({{ site.url }}{{ site.baseurl }}/assets/images/posts/js-selenium-mocha/npmTestBash.png "Bash test run")
 
 This is a basic, and brittle, example of how Selenium works. We'll cover a much better testing approach in a later post to avoid such things! This is not an example of best practices by any means. This is to get you a working example of Selenium. Stay tuned for more posts on how to use Selenium and best practices for automating tests!
 

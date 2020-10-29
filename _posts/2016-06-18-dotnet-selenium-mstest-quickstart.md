@@ -7,7 +7,7 @@ excerpt: A quick how-to on setting up a solution using MSTest and Selenium!
 tags: [Selenium, MSTest, dotnet, windows]
 classes: wide
 header:
-  overlay_image: /assets/images/dotnet-selenium-mstest/header.jpg
+  overlay_image: /assets/images/posts/dotnet-selenium-mstest/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by [Andras Vas](https://unsplash.com/@wasdrew) on [Unsplash](https://unsplash.com)"
 
@@ -32,16 +32,16 @@ To kick things off we'll need a new project.
 
 **File > New > Project**
 
-![Create a new project]({{ site.url }}{{ site.baseurl }}/assets/images/dotnet-selenium-mstest/new-project.png "Create a new project")
+![Create a new project]({{ site.url }}{{ site.baseurl }}/assets/images/posts/dotnet-selenium-mstest/new-project.png "Create a new project")
 Select the Unit Test Project template (**Templates > Visual C# > Test**), give it a name and configure some options. Press Ok to create the project. Visual Studio will create the project and open up your first UnitTest class.
-![New project's first view]({{ site.url }}{{ site.baseurl }}/assets/images/dotnet-selenium-mstest/new-project-first-view.png "New project's first view")
+![New project's first view]({{ site.url }}{{ site.baseurl }}/assets/images/posts/dotnet-selenium-mstest/new-project-first-view.png "New project's first view")
 
 ### Import/Install Selenium
 Now we'll need to grab the Selenium DLLs and give our project access to them.
 
 **Tools > NuGet Package Manager > Manage NuGet Packages for Solution**
 
-![Open NuGet]({{ site.url }}{{ site.baseurl }}/assets/images/dotnet-selenium-mstest/open-nuget.png "Open NuGet")
+![Open NuGet]({{ site.url }}{{ site.baseurl }}/assets/images/posts/dotnet-selenium-mstest/open-nuget.png "Open NuGet")
 Select Browse, search for 'Selenium' and install both Selenium.WebDriver and Selenium.Support for your new project.
 
 ### Write Test

@@ -7,7 +7,7 @@ excerpt: How and why I installed Linux Mint and chose to dual-boot between it an
 tags: [Linux]
 classes: wide
 header:
-  overlay_image: /assets/images/linux-dual-boot/header.jpg
+  overlay_image: /assets/images/posts/linux-dual-boot/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by [Marko Blažević](https://unsplash.com/@kerber) on [Unsplash](https://unsplash.com)"
 ---
@@ -33,11 +33,11 @@ I grabbed the 64bit Cinnamon version from [here](https://linuxmint.com/download.
 
 ### 3. Create a Bootable USB
 I used [Etcher](https://www.balena.io/etcher/) to flash the image onto my USB drive but any flashing software should do the trick.
-![Etcher](/assets/images/linux-dual-boot/etcher.png)
+![Etcher](/assets/images/posts/linux-dual-boot/etcher.png)
 
 ### 4. Create Disk Space
 My first attempt didn't take because I didn't have any room. I ended up freeing up some space from my Windows partitions.
-![Disk Management](/assets/images/linux-dual-boot/disk.png)
+![Disk Management](/assets/images/posts/linux-dual-boot/disk.png)
 
 ### 5. Update Boot Configuration
 I had to disable secure boot and change the boot order in the BIOS.

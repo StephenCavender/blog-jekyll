@@ -7,7 +7,7 @@ excerpt: A quick overview of Selenium and guide on getting it ready for glory!
 tags: [selenium]
 classes: wide
 header:
-  overlay_image: /assets/images/selenium-overview/header.jpg
+  overlay_image: /assets/images/posts/selenium-overview/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by [Philipp Katzenberger](https://unsplash.com/@fantasyflip) on [Unsplash](https://unsplash.com)"
 ---
