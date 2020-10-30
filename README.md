@@ -1,4 +1,4 @@
 # My Blog
-A simple software engineering blog built with Jekyll.
+A software engineering blog built with Jekyll.
 
 Theme: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
