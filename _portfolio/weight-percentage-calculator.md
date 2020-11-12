@@ -8,6 +8,6 @@ header:
 
 A simple weight percentage calculator used to quickly find perentages of a given weight. I built it to quickly find weights needed for workouts.
 
-Built on Angular and hosted by GitHub Pages.
+Built on Angular and hosted by GitHub Pages at <https://stephencavender.github.io/ng-percentages-calc/>.
 
 [Repo](https://github.com/StephenCavender/ng-percentages-calc){:target="_blank"}
