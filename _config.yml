@@ -14,16 +14,9 @@ teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 future: false
 words_per_minute: 200
 comments:
-  provider: staticman_v2
-staticman:
-  allowedFields: ['name', 'email', 'url', 'message']
-  branch: "master"
-  commitMessage: "New comment by {fields.name}"
-  filename: comment-{@timestamp}
-  format: "yml"
-  moderation: true
-  path: "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields: ['name', 'email', 'message']
+  provider: disqus
+disqus:
+  shortname: "cavender-io"
 search: true
 
 # Site Author
