@@ -9,14 +9,15 @@ description: "The personal blog and website of Stephen Cavender."
 github_username: "stephencavender"
 url: https://dev.cavender.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: StephenCavender/stephencavender.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: StephenCavender/blog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 future: false
 words_per_minute: 200
 comments:
-  provider: disqus
-disqus:
-  shortname: "cavender-io"
+  provider: "utterances"
+  utterances:
+    theme: "github-dark"
+    issue_term: "pathname"
 search: true
 
 # Site Author
