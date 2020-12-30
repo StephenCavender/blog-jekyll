@@ -44,7 +44,7 @@ author:
       url: "https://stackoverflow.com/users/6639669/stephen-cavender"
     - label: "Buy Me A Coffee"
       icon: "fas fa-fw fa-coffee"
-      url: "https://buymeacoffee.com/cavender"
+      url: "https://buymeacoff.ee/cavender"
 
 # Site Footer
 footer:
@@ -69,7 +69,7 @@ footer:
       url: "/assets/files/stephen-cavender-resume.pdf"
     - label: "Buy Me A Coffee"
       icon: "fas fa-fw fa-coffee"
-      url: "https://buymeacoffee.com/cavender"
+      url: "https://buymeacoff.ee/cavender"
 
 # Reading Files
 include:
