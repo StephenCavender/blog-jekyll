@@ -2,10 +2,10 @@ image: ruby:3
 
 pages:
   script:
-  - gem install jekyll
-  - jekyll build -d public/
+  - bundle
+  - bundle e jekyll build
   artifacts:
     paths:
-    - public
+    - _site
   only:
   - master
