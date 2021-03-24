@@ -77,6 +77,7 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 # Build settings
 markdown: kramdown

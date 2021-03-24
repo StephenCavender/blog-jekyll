@@ -9,7 +9,7 @@ cache:
 
 before_script:
 - gem install bundler
-- bundle install
+- bundle install --path vendor
 
 pages:
   script:
