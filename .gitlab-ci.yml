@@ -1,11 +1,21 @@
-image: ruby:3
+image: ruby:latest
+
+variables:
+  JEKYLL_ENV: production
+
+cache:
+  paths:
+  - vendor/
+
+before_script:
+- gem install bundler
+- bundle install
 
 pages:
   script:
-  - bundle
-  - bundle e jekyll build
+  - bundle e jekyll b -d public
   artifacts:
     paths:
-    - _site
+    - public
   only:
   - master
