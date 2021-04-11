@@ -1,9 +1,9 @@
 ---
 title: React-Native SVG Example
-# date: yyyy-mm-dd
+date: 2021-04-10
 # modified: yyyy-mm-dd
 categories: [react-native]
-tags: [react-native]
+tags: [react-native, svg, vector, icon]
 excerpt: Working with SVGs in React-Native
 classes: wide
 header:
