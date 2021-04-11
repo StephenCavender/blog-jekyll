@@ -7,9 +7,9 @@ tags: [react-native]
 excerpt: Working with SVGs in React-Native
 classes: wide
 header:
-  overlay_image: /assets/images/posts/draft/header.jpg
+  overlay_image: /assets/images/posts/react-native-svg/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo by [Author](authorLink) on [Unsplash](https://unsplash.com)"
+  caption: "Photo by [Harpal Singh](https://unsplash.com/@aquatium) on [Unsplash](https://unsplash.com)"
 ---
 
 ## Series Intro
