@@ -18,7 +18,7 @@ Welcome to the first post of my React Native series! Each article in the series 
 
 ## Getting Started
 
-To begin we'll need a React Native application to add SVGs to. I started a new one in my [examples repo]() under `svg` with the `npx react-native init PROJECTNAME` command. An existing app will work as well but we'll have to check version compatibility. Our next step is to fire up the app. I run `npm run start` which just calls `react-native start`. Now metro is running in this terminal and we need to open a new terminal. In the new terminal let's fire up the app in either iOS or Android. I started with Android so I ran `npm run android` which just runs `react-native run-android`. Now we have an Android emulator running our app! Here's a screenshot of where we're at on Android:
+To begin we'll need a React Native application to add SVGs to. I started a new one in my [examples repo](https://gitlab.com/stephen.cavender/react-native-examples){:target="\_blank"} under `svg` with the `npx react-native init PROJECTNAME` command. An existing app will work as well but we'll have to check version compatibility. Our next step is to fire up the app. I run `npm run start` which just calls `react-native start`. Now metro is running in this terminal and we need to open a new terminal. In the new terminal let's fire up the app in either iOS or Android. I started with Android so I ran `npm run android` which just runs `react-native run-android`. Now we have an Android emulator running our app! Here's a screenshot of where we're at on Android:
 
 ![Initial Screen](/assets/images/posts/react-native-svg/init.png "Initial Screen"){:width="200px"}
 {: style="text-align: center;"}
@@ -64,34 +64,6 @@ I had to restart metro and re-run the android command to get SVGs working.
 ---
 
 Check out the [supported elements](https://github.com/react-native-svg/react-native-svg#supported-elements) to see what else we can do with SVGs now.
-
-## Using an SVG Font
-
-Being able to draw our own SVGs is cool but let's pull in an SVG font with a bunch of icons we can use. I chose a set of open source icons called [Feather](https://feathericons.com/). [Yiğithan](https://yigithan.dev/) has already done the work for those of us that want to use Feather icon SVGs in our React Native apps with [react-native-feather](https://github.com/yigithanyucedag/react-native-feather). Install the package with `npm i react-native-feather` and pop in any of the Feather icons. I created another separate component to try out Feather icons in my example app: `/components/feather.js`. Here's my component code:
-
-```
-import React from 'react';
-import type {Node} from 'react';
-import {View} from 'react-native';
-import {ArrowUpCircle} from 'react-native-feather';
-
-const FeatherComp = (): Node => {
-  return (
-    <View>
-      <ArrowUpCircle stroke="red" fill="#fff" width={32} height={32} />
-    </View>
-  );
-};
-
-export default FeatherComp;
-```
-
-And here's a screenshot of how it renders in the Android emulator:
-
-![Feather Icon](/assets/images/posts/react-native-svg/feather-icon.png "Feather Icon"){:width="200px"}
-{: style="text-align: center;"}
-
-This is great because now we have access to all of the Feather icons as React components. But what if we had an SVG file we wanted to use?
 
 ## Using SVG Files
 
@@ -192,6 +164,34 @@ Now our firefox looks good but our coffee icon does not. This particular icon is
 
 ![SVG File Final](/assets/images/posts/react-native-svg/svg-file-final.png "SVG File Final"){:width="200px"}
 {: style="text-align: center;"}
+
+## Using an SVG Font
+
+Now let's pull in an SVG font with a bunch of icons we can use. I chose a set of open source icons called [Feather](https://feathericons.com/). Install Feather with `npm i feather-icons` and grab an SVG file. I created another separate component to try out Feather icons in my example app: `/components/feather.js`. Here's my component code:
+
+```
+import React from 'react';
+import type {Node} from 'react';
+import {View} from 'react-native';
+import ArrowUpCircle from 'react-native-feather/src/icons/ArrowUpCircle';
+
+const FeatherComp = (): Node => {
+  return (
+    <View>
+      <ArrowUpCircle stroke="red" fill="#fff" width={32} height={32} />
+    </View>
+  );
+};
+
+export default FeatherComp;
+```
+
+And here's a screenshot of how it renders in the Android emulator:
+
+![Feather Icon](/assets/images/posts/react-native-svg/feather-icon.png "Feather Icon"){:width="200px"}
+{: style="text-align: center;"}
+
+This is great because now we have access to all of the Feather icons as React components. But what if we had an SVG file we wanted to use?
 
 Now those are some good looking SVGs in a React Native app!
 
