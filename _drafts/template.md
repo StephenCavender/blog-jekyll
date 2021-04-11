@@ -13,3 +13,7 @@ header:
 ---
 
 ## Draft Start
+
+## Conclusion
+
+Thanks for reading! Please share using any of the buttons below and stay tuned for more. Don't hesitate to reach out in the comments below or on any of the links in the author profile.
