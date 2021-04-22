@@ -67,7 +67,7 @@ Check out the [supported elements](https://github.com/react-native-svg/react-nat
 
 ## Using SVG Files
 
-Maybe we have some SVG files we want to include rather than including a font of them. For this case we'll need another package. [Kristerkari](https://github.com/kristerkari) has us covered with [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer). Install the package with `npm i --save-dev react-native-svg-transformer`. Next we'll update our metro config to handle transforming SVGs. Here's what my metro.config.js looks like now:
+Maybe we have some SVG files we want to include rather than drawing them. For this case we'll need another package. [Kristerkari](https://github.com/kristerkari) has us covered with [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer). Install the package with `npm i --save-dev react-native-svg-transformer`. Next we'll update our metro config to handle transforming SVGs. Here's what my metro.config.js looks like now:
 
 ```
 const {getDefaultConfig} = require('metro-config');
