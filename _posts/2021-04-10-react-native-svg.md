@@ -1,7 +1,7 @@
 ---
 title: React-Native SVG Example
 date: 2021-04-10
-# modified: yyyy-mm-dd
+modified: 2021-04-22
 categories: [react-native]
 tags: [react-native, svg, vector, icon]
 excerpt: Working with SVGs in React-Native
@@ -122,7 +122,7 @@ export default SvgFilesComp;
 
 And here's a screenshot of how it renders in the Android emulator:
 
-![SVG File Initial Screen](/assets/images/posts/react-native-svg/svg-file-init.png "SVG File Initial Screen"){:width="200px"}
+![SVG File Initial Screen](/assets/images/posts/react-native-svg/file-1.png "SVG File Initial Screen"){:width="200px"}
 {: style="text-align: center;"}
 
 ---
@@ -142,7 +142,7 @@ For instance, both SVGs I chose have widths and heights set for them. If we don'
 <Coffee />
 ```
 
-![SVG File Firefox Width](/assets/images/posts/react-native-svg/svg-file-firefox-width.png "SVG File Firefox Width"){:width="200px"}
+![SVG File Firefox Width](/assets/images/posts/react-native-svg/file-2.png "SVG File Firefox Width"){:width="200px"}
 {: style="text-align: center;"}
 
 The image is the correct size but the overall SVG is still taking up a lot more room than it needs. We have to pass in both sizes to fix this. While we're at it, let's give some color to our coffee icon by passing in a fill color.
@@ -152,7 +152,7 @@ The image is the correct size but the overall SVG is still taking up a lot more 
 <Coffee fill={'blue'} />
 ```
 
-![SVG File Firefox Size Coffee Fill](/assets/images/posts/react-native-svg/svg-file-firefox-size-coffee-fill.png "SVG File Firefox Size Coffee Fill"){:width="200px"}
+![SVG File Firefox Size Coffee Fill](/assets/images/posts/react-native-svg/file-3.png "SVG File Firefox Size Coffee Fill"){:width="200px"}
 {: style="text-align: center;"}
 
 Now our firefox looks good but our coffee icon does not. This particular icon isn't meant to have a fill. Rather, we should pass in a stroke to get the desired look.
@@ -162,7 +162,7 @@ Now our firefox looks good but our coffee icon does not. This particular icon is
 <Coffee stroke={'#333'} />
 ```
 
-![SVG File Final](/assets/images/posts/react-native-svg/svg-file-final.png "SVG File Final"){:width="200px"}
+![SVG File Final](/assets/images/posts/react-native-svg/file-4.png "SVG File Final"){:width="200px"}
 {: style="text-align: center;"}
 
 ## Using an SVG Font
@@ -173,7 +173,7 @@ Now let's pull in an SVG font with a bunch of icons we can use. I chose a set of
 import React from 'react';
 import type {Node} from 'react';
 import {View} from 'react-native';
-import ArrowUpCircle from 'react-native-feather/src/icons/ArrowUpCircle';
+import ArrowUpCircle from 'feather-icons/dist/icons/arrow-up-circle.svg';
 
 const FeatherComp = (): Node => {
   return (
@@ -188,7 +188,7 @@ export default FeatherComp;
 
 And here's a screenshot of how it renders in the Android emulator:
 
-![Feather Icon](/assets/images/posts/react-native-svg/feather-icon.png "Feather Icon"){:width="200px"}
+![Feather Icon](/assets/images/posts/react-native-svg/feather-1.png "Feather Icon"){:width="200px"}
 {: style="text-align: center;"}
 
 This is great because now we have access to all of the Feather icons as React components. But what if we had an SVG file we wanted to use?
