@@ -13,6 +13,4 @@ Verify my skills on [LeetCode](https://leetcode.com/stephencavender/){:target="\
 
 Look at the [courses](/courses) I've completed.
 
-View my [Resume](/assets/files/stephen-cavender-resume.pdf "Resume"){:target="\_blank"}
-
 # Featured Projects

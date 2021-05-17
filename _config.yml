@@ -39,11 +39,11 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/stephencavender"
-    - label: "stackoverflow"
+    - label: "Stackoverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6639669/stephen-cavender"
-    - label: "Buy Me A Coffee"
-      icon: "fas fa-fw fa-coffee"
+    - label: "Buy Me a Beer"
+      icon: "fas fa-fw fa-beer"
       url: "https://buymeacoff.ee/cavender"
 
 # Site Footer
@@ -64,11 +64,8 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6639669/stephen-cavender"
-    - label: "Resume"
-      icon: "fas fa-fw fa-file"
-      url: "/assets/files/stephen-cavender-resume.pdf"
-    - label: "Buy Me A Coffee"
-      icon: "fas fa-fw fa-coffee"
+    - label: ""
+      icon: "fas fa-fw fa-beer"
       url: "https://buymeacoff.ee/cavender"
 
 # Reading Files
