@@ -8,10 +8,10 @@ header:
   teaser: /assets/images/portfolio/simpledex/teaser.jpg
 ---
 
-An app I created to learn [React Native](https://reactnative.dev/).
+An app I created to learn [React Native](https://reactnative.dev/){:target="\_blank"}.
 
 Coming soon to the Apple and Google Play stores!
 
-Icons used from [Feather Icons](https://feathericons.com/).
+Icons used from [Feather Icons](https://feathericons.com/){:target="\_blank"}.
 
-Logo created by [ei8htz](https://www.fiverr.com/ei8htz).
+Logo created by [ei8htz](https://www.fiverr.com/ei8htz){:target="\_blank"}.
