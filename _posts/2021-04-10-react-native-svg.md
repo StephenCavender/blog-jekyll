@@ -11,7 +11,6 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by [Harpal Singh](https://unsplash.com/@aquatium) on [Unsplash](https://unsplash.com)"
 series: react-native-intro
-layout: enhanced-single
 ---
 
 ## Series Intro

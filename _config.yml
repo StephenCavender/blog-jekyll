@@ -109,7 +109,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: enhanced-single
       author_profile: true
       show_date: true
       read_time: true
