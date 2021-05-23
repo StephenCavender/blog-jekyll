@@ -15,11 +15,11 @@
 
     {% for post in series-posts %}
       {% if prev_post_index == forloop.index %}
-        <a class="btn" rel="prev" href="{{ site.baseurl }}{{ post.url }}">&larr; Prev Post</a>
+        <a class="btn" rel="prev" href="{{ post.url | relative_url }}" rel="permalink">&larr; Prev Post</a>
       {% endif %}
 
       {% if next_post_index == forloop.index %}
-        <a class="btn" rel="next" href="{{ site.baseurl }}{{ post.url }}">Next Post &rarr;</a>
+        <a class="btn" rel="next" href="{{ post.url | relative_url }}" rel="permalink">Next Post &rarr;</a>
       {% endif %}
     {% endfor %}
   </div>
