@@ -19,7 +19,7 @@ Welcome to the first post of my React Native series! Each article in the series 
 
 ## Getting Started
 
-To begin we'll need a React Native application to add SVGs to. I started a new one in my [examples repo](https://gitlab.com/stephen.cavender/react-native-examples){:target="\_blank"} under `svg` with the `npx react-native init PROJECTNAME` command. An existing app will work as well but we'll have to check version compatibility. Our next step is to fire up the app. I run `npm run start` which just calls `react-native start`. Now metro is running in this terminal and we need to open a new terminal. In the new terminal let's fire up the app in either iOS or Android. I started with Android so I ran `npm run android` which just runs `react-native run-android`. Now we have an Android emulator running our app! Here's a screenshot of where we're at on Android:
+To begin we'll need a React Native application to add SVGs to. I started a new one in my [examples repo](https://gitlab.com/stephen.cavender/react-native-examples) under `svg` with the `npx react-native init PROJECTNAME` command. An existing app will work as well but we'll have to check version compatibility. Our next step is to fire up the app. I run `npm run start` which just calls `react-native start`. Now metro is running in this terminal and we need to open a new terminal. In the new terminal let's fire up the app in either iOS or Android. I started with Android so I ran `npm run android` which just runs `react-native run-android`. Now we have an Android emulator running our app! Here's a screenshot of where we're at on Android:
 
 ![Initial Screen](/assets/images/posts/react-native-svg/init.png "Initial Screen"){:width="200px"}
 {: style="text-align: center;"}

@@ -14,12 +14,12 @@ An app I created to learn the [Speech API](https://developer.mozilla.org/en-US/d
 
 ## Application
 
-Hosted by GitHub Pages at <https://stephencavender.github.io/speak-easy/>{:target="\_blank"}.
+Hosted by GitHub Pages at <https://stephencavender.github.io/speak-easy/>.
 
 ## Source
 
-<https://github.com/StephenCavender/speak-easy>{:target="\_blank"}
+<https://github.com/StephenCavender/speak-easy>
 
 ## References
 
-<https://dev.to/twilio/speech-to-text-in-the-browser-with-the-web-speech-api-29d3>{:target="\_blank"}
+<https://dev.to/twilio/speech-to-text-in-the-browser-with-the-web-speech-api-29d3>

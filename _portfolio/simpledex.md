@@ -9,7 +9,7 @@ header:
 
 ## Description
 
-An app I created to learn [React Native](https://reactnative.dev/){:target="\_blank"}.
+An app I created to learn [React Native](https://reactnative.dev/).
 SimpleDex is a quick and easy tool for figuring out if a Pokèmon evolves and the conditions that need to be met for it to happen.
 
 ## Download
@@ -18,8 +18,8 @@ Coming soon to the Apple and Google Play stores!
 
 ## Credits
 
-Icons used from [Feather Icons](https://feathericons.com/){:target="\_blank"}.
-Logo created by [ei8htz](https://www.fiverr.com/ei8htz){:target="\_blank"}.
+Icons used from [Feather Icons](https://feathericons.com/).
+Logo created by [ei8htz](https://www.fiverr.com/ei8htz).
 
 ## Disclaimers
 

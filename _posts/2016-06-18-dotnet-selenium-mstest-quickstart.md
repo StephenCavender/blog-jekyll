@@ -20,10 +20,10 @@ In this article we'll be using MSTest and Selenium to write tests for web applic
 
 Here are the requirements before we get started:
 
-- [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx){:target="\_blank"} (A Microsoft Integrated Development Environment or IDE)
-- [Nuget](http://docs.nuget.org/consume/installing-nuget){:target="\_blank"} (A package manager for Visual Studio)
-- [Selenium C# language bindings](http://docs.seleniumhq.org/download/){:target="\_blank"} (But we'll use NuGet to grab these)
-- Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp){:target="\_blank"}
+- [Visual Studio](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx) (A Microsoft Integrated Development Environment or IDE)
+- [Nuget](http://docs.nuget.org/consume/installing-nuget) (A package manager for Visual Studio)
+- [Selenium C# language bindings](http://docs.seleniumhq.org/download/) (But we'll use NuGet to grab these)
+- Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp)
 
 ### Selenium Prep
 
@@ -51,9 +51,9 @@ Select Browse, search for 'Selenium' and install both Selenium.WebDriver and Sel
 ### Write Test
 
 Now the fun begins; we can write the first Selenium test!
-We'll write our test against [The Internet](http://the-internet.herokuapp.com/){:target="\_blank"}[^theinternet].
+We'll write our test against [The Internet](http://the-internet.herokuapp.com/)[^theinternet].
 
-[^theinternet]: Credit to [Dave Haeffner](http://davehaeffner.com/){:target="\_blank"}.
+[^theinternet]: Credit to [Dave Haeffner](http://davehaeffner.com/).
 
 Here's some code to put inside the **TestMethod1()**
 

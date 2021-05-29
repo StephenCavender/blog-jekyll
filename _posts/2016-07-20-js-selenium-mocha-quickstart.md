@@ -20,11 +20,11 @@ In this article we'll be using Mocha and Selenium to write tests for web applica
 
 Here are the requirements before we get started:
 
-- [NodeJS](https://nodejs.org){:target="\_blank"} (A JavaScript runtime)
-- [Selenium JavaScript language bindings](http://docs.seleniumhq.org/download/){:target="\_blank"} (But we'll use NPM to grab these)
-- [MochaJS](http://mochajs.org/){:target="\_blank"} (Mocha is a JS test framework)
-- [ChaiJS](http://chaijs.com/){:target="\_blank"} (Chai is an assertion library)
-- Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp){:target="\_blank"}
+- [NodeJS](https://nodejs.org) (A JavaScript runtime)
+- [Selenium JavaScript language bindings](http://docs.seleniumhq.org/download/) (But we'll use NPM to grab these)
+- [MochaJS](http://mochajs.org/) (Mocha is a JS test framework)
+- [ChaiJS](http://chaijs.com/) (Chai is an assertion library)
+- Any browsers installed that you want to test [Supported Platforms](http://docs.seleniumhq.org/about/platforms.jsp)
 
 ### Selenium Prep
 
@@ -32,7 +32,7 @@ If you haven't read through my quick [Overview of Selenium]({% post_url 2016-06-
 
 ### NodeJs Tutorial
 
-If you're unfamiliar with NodeJS I recommend this tutorial to get you started: [NodeHero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/){:target="\_blank"}. It's packed with helpful information. It's a good resource to keep open in a tab while working through this post.
+If you're unfamiliar with NodeJS I recommend this tutorial to get you started: [NodeHero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/). It's packed with helpful information. It's a good resource to keep open in a tab while working through this post.
 
 ### Create Project
 
@@ -83,9 +83,9 @@ We can now write our first test and use our installed packages! Here's what the 
 
 ### Write Test
 
-We'll write our test against [The Internet](http://the-internet.herokuapp.com/){:target="\_blank"}[^theinternet].
+We'll write our test against [The Internet](http://the-internet.herokuapp.com/)[^theinternet].
 
-[^theinternet]: Credit to [Dave Haeffner](http://davehaeffner.com/){:target="\_blank"}.
+[^theinternet]: Credit to [Dave Haeffner](http://davehaeffner.com/).
 
 Let's create a new JS file in our project folder: I'll create test1.js.
 

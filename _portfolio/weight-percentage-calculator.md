@@ -14,8 +14,8 @@ A simple weight percentage calculator used to quickly find perentages of a given
 
 ## Application
 
-Built on Angular and hosted by GitHub Pages at <https://stephencavender.github.io/ng-percentages-calc/>{:target="\_blank"}.
+Built on Angular and hosted by GitHub Pages at <https://stephencavender.github.io/ng-percentages-calc/>.
 
 ## Source
 
-<https://github.com/StephenCavender/ng-percentages-calc>{:target="\_blank"}
+<https://github.com/StephenCavender/ng-percentages-calc>
