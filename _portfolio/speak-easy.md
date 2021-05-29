@@ -9,8 +9,18 @@ header:
   teaser: /assets/images/portfolio/speak-easy/header.jpg
 ---
 
-An app I created to learn the [Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API). Also looked at <https://dev.to/twilio/speech-to-text-in-the-browser-with-the-web-speech-api-29d3>.
+## Description
 
-Hosted by GitHub Pages at <https://stephencavender.github.io/speak-easy/>.
+An app I created to learn the [Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
 
-[Repo](https://github.com/StephenCavender/speak-easy){:target="_blank"}
+## Application
+
+Hosted by GitHub Pages at <https://stephencavender.github.io/speak-easy/>{:target="\_blank"}.
+
+## Source
+
+<https://github.com/StephenCavender/speak-easy>{:target="\_blank"}
+
+## References
+
+<https://dev.to/twilio/speech-to-text-in-the-browser-with-the-web-speech-api-29d3>{:target="\_blank"}
