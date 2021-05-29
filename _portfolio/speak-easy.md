@@ -1,5 +1,4 @@
 ---
-title: "Speak-Easy"
 excerpt: "Speech API playground"
 author_profile: true
 header:

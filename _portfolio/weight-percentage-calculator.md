@@ -1,5 +1,4 @@
 ---
-title: "Weight Percentage Calculator"
 excerpt: "Simple percentage calculator"
 author_profile: true
 header:
