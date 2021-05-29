@@ -1,8 +1,8 @@
 # Site settings
 minimal_mistakes_skin: "dark"
 locale: "en-US"
-title: "dev.cavender.io"
-subtitle: "A Software Engineering Blog"
+title: "Stephen Cavender"
+subtitle: "Full-Stack Engineer"
 title_separator: "-"
 name: "dev.cavender.io"
 description: "The personal blog and website of Stephen Cavender."
@@ -10,6 +10,8 @@ github_username: "stephencavender"
 url: https://dev.cavender.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: StephenCavender/blog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo: "/assets/images/logo.png"
+# masthead_title: ""
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 future: false
 words_per_minute: 200
@@ -22,9 +24,9 @@ search: true
 
 # Site Author
 author:
-  name: "Stephen Cavender"
+  # name: "Stephen Cavender"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Full-Stack Engineer"
+  # bio: "Full-Stack Engineer"
   # location: ""
   links:
     - label: "GitHub"
