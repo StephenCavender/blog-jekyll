@@ -23,4 +23,6 @@ Logo created by [ei8htz](https://www.fiverr.com/ei8htz).
 
 ## Disclaimers
 
-Pokémon and Pokémon character names are trademarks of Nintendo.
+Data and images gathered from [PokèAPI](https://pokeapi.co/) under their [Fair Use Policy](https://pokeapi.co/docs/v2#fairuse).
+
+SimpleDex is not affiliated with Nintendo, Creatures Inc., Game Freak Inc., or the Pokémon Company. Pokémon content and materials are trademarks and copyrights of Nintendo, Creatures Inc., Game Freak Inc, The Pokémon Company, and their licensors. All rights reserved.
