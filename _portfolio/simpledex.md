@@ -1,6 +1,6 @@
 ---
-title: "SimpleDex"
-excerpt: "The Simple Pokèdex"
+title: 'SimpleDex'
+excerpt: 'The Simple Pokèdex'
 author_profile: true
 header:
   teaser: /assets/images/portfolio/simpledex/teaser.jpg
@@ -14,7 +14,9 @@ SimpleDex is a quick and easy tool for figuring out if a Pokèmon evolves and th
 
 ## Download
 
-Coming soon to the Apple and Google Play stores!
+<a href="https://apps.apple.com/us/app/simpledex-pok%C3%A8dex/id1570043348?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1623024000&h=8740b1b92e14de0dcbe75bf9419d757f" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+Coming soon to the Google Play store!
 
 ## Credits
 
