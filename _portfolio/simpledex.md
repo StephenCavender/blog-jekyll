@@ -38,7 +38,11 @@ SimpleDex is a quick and easy tool for figuring out if a pokèmon evolves and th
 Icons used from [Feather Icons](https://feathericons.com/).
 Logo created by [ei8htz](https://www.fiverr.com/ei8htz).
 
-## Disclaimers
+## Disclaimers / Legal Docs
+
+[Terms & Conditions](https://user.fm/files/v2-b8cb3440d4c3c31ea2e126c0541d64ef/termsAndConditions.html)
+
+[Privacy Policy](https://user.fm/files/v2-891a62a0a61947b7e884d31505325a52/privacyPolicy.html)
 
 <small>
 Data and images gathered from [PokèAPI](https://pokeapi.co/) under their [Fair Use Policy](https://pokeapi.co/docs/v2#fairuse).
