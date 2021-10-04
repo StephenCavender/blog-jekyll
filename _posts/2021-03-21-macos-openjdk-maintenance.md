@@ -9,7 +9,7 @@ classes: wide
 header:
   overlay_image: /assets/images/posts/macos-openjdk-maintenance/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo by [Jonas Jacobsson](https://unsplash.com/@jonasjacobsson) on [Unsplash](https://unsplash.com)"
+  caption: 'Photo by [Jonas Jacobsson](https://unsplash.com/@jonasjacobsson) on [Unsplash](https://unsplash.com)'
 ---
 
 ## What is OpenJDK?
@@ -18,7 +18,7 @@ An open-source implementation of the Java platform SE. To read more check out [o
 
 ## Why have multiple versions?
 
-Why not? Not all apps are able to keep up with Java versions and those that do might need some time when a new version comes out. For example: I'm working with React-Native building mobile apps for both iOS and Android. To build the Android app it uses Gradle 6.5 which doesn't support the latest version of Java (16) yet.
+Why not? Not all apps are able to keep up with Java versions and those that do might need some time when a new version comes out. For example: I'm working with React Native building mobile apps for both iOS and Android. To build the Android app it uses Gradle 6.5 which doesn't support the latest version of Java (16) yet.
 
 ## Installing
 
