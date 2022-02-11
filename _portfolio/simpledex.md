@@ -23,20 +23,23 @@ SimpleDex is a quick and easy tool for figuring out if a pokèmon evolves and th
 
 - A simple interface
 
-  Simply load the app and search for a pokèmon species to see if and how it evolves
+  App loads quickly and makes it easy to search or shuffle for a Pokèmon.
 
-- A carousel
+- Evolutions
 
-  If the pokèmon you searched for has multiple evolutions you'll be able to slide between them
+  Swipe through a selected Pokèmon's possible evolutions and learn how to get them to evolve.
 
-- An About modal
+- Encounters
 
-  Tap on the menu icon in the header to pull up an about modal showcasing the app logo, version string, and useful links.
+  Swipe through a selected Pokèmon's possible encounters after filtering by game.
 
 ## Credits
 
 Icons used from [Feather Icons](https://feathericons.com/).
+
 Logo created by [ei8htz](https://www.fiverr.com/ei8htz).
+
+V2 started from [Ignite](https://github.com/infinitered/ignite)
 
 ## Disclaimers / Legal Docs
 
