@@ -1,7 +1,7 @@
 ---
 title: React Native SVG Example
 date: 2021-04-10
-modified: 2021-04-22
+modified: 2022-02-10
 categories: [react-native]
 tags: [react-native, svg, vector, icon]
 excerpt: Working with SVGs in React Native
@@ -19,7 +19,7 @@ Welcome to the first post of my React Native series! Each article in the series 
 
 ## Getting Started
 
-To begin we'll need a React Native application to add SVGs to. I started a new one in my [examples repo](https://gitlab.com/stephen.cavender/react-native-examples) under `svg` with the `npx react-native init PROJECTNAME` command. An existing app will work as well but we'll have to check version compatibility. Our next step is to fire up the app. I run `npm run start` which just calls `react-native start`. Now metro is running in this terminal and we need to open a new terminal. In the new terminal let's fire up the app in either iOS or Android. I started with Android so I ran `npm run android` which just runs `react-native run-android`. Now we have an Android emulator running our app! Here's a screenshot of where we're at on Android:
+To begin we'll need a React Native application to add SVGs to. Either create a new one with the `npx react-native init PROJECTNAME` command or use existing app but you'll have to check version compatibility. Our next step is to fire up the app. I run `npm run start` which just calls `react-native start`. Now metro is running in this terminal and we need to open a new terminal. In the new terminal let's fire up the app in either iOS or Android. I started with Android so I ran `npm run android` which just runs `react-native run-android`. Now we have an Android emulator running our app! Here's a screenshot of where we're at on Android:
 
 ![Initial Screen](/assets/images/posts/react-native-svg/init.png 'Initial Screen'){:width="200px"}
 {: style="text-align: center;"}
@@ -168,7 +168,7 @@ Now our firefox looks good but our coffee icon does not. This particular icon is
 
 ## Using an SVG Font
 
-Now let's pull in an SVG font with a bunch of icons we can use. I chose a set of open source icons called [Feather](https://feathericons.com/). Install Feather with `npm i feather-icons` and grab an SVG file. I created another separate component to try out Feather icons in my example app: `/components/feather.js`. Here's my component code:
+Now let's pull in an SVG font with a bunch of icons we can use. I chose a set of open source icons called [Feather](https://feathericons.com/). Install Feather with `npm i feather-icons` and grab an SVG file. I created another separate component to try out Feather icons in my app: `/components/feather.js`. Here's my component code:
 
 ```
 import React from 'react';
