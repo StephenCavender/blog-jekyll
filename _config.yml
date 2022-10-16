@@ -98,7 +98,7 @@ tag_archive:
 
 # Collections
 collections:
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   courses:
@@ -126,7 +126,7 @@ defaults:
       author_profile: true
       share: false
   - scope:
-      path: "_portfolio"
+      path: "_projects"
     values:
       layout: single
   - scope:

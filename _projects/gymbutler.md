@@ -3,8 +3,8 @@ title: 'Gymbutler'
 excerpt: 'Fitness Tools'
 author_profile: true
 header:
-  teaser: /assets/images/portfolio/gymbutler/teaser.webp
-  image: /assets/images/portfolio/gymbutler/header.webp
+  teaser: /assets/images/projects/gymbutler/teaser.webp
+  image: /assets/images/projects/gymbutler/header.webp
 ---
 
 ## Description

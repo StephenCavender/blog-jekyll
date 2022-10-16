@@ -2,10 +2,10 @@
 excerpt: "Speech API playground"
 author_profile: true
 header:
-  overlay_image: /assets/images/portfolio/speak-easy/header.jpg
+  overlay_image: /assets/images/projects/speak-easy/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by [Ilyass SEDDOUG](https://unsplash.com/@ilyasssed) on [Unsplash](https://unsplash.com)"
-  teaser: /assets/images/portfolio/speak-easy/header.jpg
+  teaser: /assets/images/projects/speak-easy/header.jpg
 ---
 
 ## Description

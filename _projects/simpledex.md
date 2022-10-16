@@ -3,8 +3,8 @@ title: 'SimpleDex'
 excerpt: 'The Simple Pokèdex'
 author_profile: true
 header:
-  teaser: /assets/images/portfolio/simpledex/teaser.jpg
-  image: /assets/images/portfolio/simpledex/header.jpg
+  teaser: /assets/images/projects/simpledex/teaser.jpg
+  image: /assets/images/projects/simpledex/header.jpg
 ---
 
 ## Description
