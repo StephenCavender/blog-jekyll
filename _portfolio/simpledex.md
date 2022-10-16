@@ -15,7 +15,7 @@ SimpleDex is a quick and easy tool for figuring out if a pokèmon evolves and th
 
 ## Download
 
-[![Download on the App Store](/assets/images/app-store-badge.svg){:width="200px"}](https://apps.apple.com/us/app/simpledex-pok%C3%A8dex/id1570043348?itsct=apps_box_badge&itscg=30200)
+<!-- [![Download on the App Store](/assets/images/app-store-badge.svg){:width="200px"}](https://apps.apple.com/us/app/simpledex-pok%C3%A8dex/id1570043348?itsct=apps_box_badge&itscg=30200) -->
 [![Get it on Google Play](/assets/images/google-play-badge.png){:width="225px"}](https://play.google.com/store/apps/details?id=com.cavender.simpledex&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 {: style="text-align: center;"}
 
@@ -48,10 +48,13 @@ V2 started from [Ignite](https://github.com/infinitered/ignite)
 [Privacy Policy](https://user.fm/files/v2-891a62a0a61947b7e884d31505325a52/privacyPolicy.html)
 
 <small>
-Data and images gathered from [PokèAPI](https://pokeapi.co/) under their [Fair Use Policy](https://pokeapi.co/docs/v2#fairuse).
+  Data and images gathered from [PokèAPI](https://pokeapi.co/) under their [Fair Use Policy](https://pokeapi.co/docs/v2#fairuse).
+</small>
 
 <small>
-SimpleDex is not affiliated with Nintendo, Creatures Inc., Game Freak Inc., or the Pokémon Company. Pokémon content and materials are trademarks and copyrights of Nintendo, Creatures Inc., Game Freak Inc, The Pokémon Company, and their licensors. All rights reserved.
+  SimpleDex is not affiliated with Nintendo, Creatures Inc., Game Freak Inc., or the Pokémon Company. Pokémon content and materials are trademarks and copyrights of Nintendo, Creatures Inc., Game Freak Inc, The Pokémon Company, and their licensors. All rights reserved.
+</small>
 
 <small>
-Google Play and the Google Play logo are trademarks of Google LLC.
+  Google Play and the Google Play logo are trademarks of Google LLC.
+</small>
