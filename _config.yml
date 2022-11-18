@@ -44,9 +44,6 @@ author:
     - label: "Stackoverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6639669/stephen-cavender"
-    - label: "Buy Me a Beer"
-      icon: "fas fa-fw fa-beer"
-      url: "https://buymeacoff.ee/cavender"
 
 # Site Footer
 footer:
@@ -66,9 +63,6 @@ footer:
     - label: ""
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6639669/stephen-cavender"
-    - label: ""
-      icon: "fas fa-fw fa-beer"
-      url: "https://buymeacoff.ee/cavender"
 
 # Reading Files
 include:
