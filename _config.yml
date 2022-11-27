@@ -29,9 +29,6 @@ author:
   # bio: "Full-Stack Engineer"
   # location: ""
   links:
-    - label: "Bio Link"
-      icon: "fas fa-fw fa-link"
-      url: "https://bio.link/cavender"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stephencavender"
