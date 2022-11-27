@@ -26,3 +26,7 @@ An app with a few quick tools for fitness enthusiasts.
 
 <small>
 Google Play and the Google Play logo are trademarks of Google LLC.
+
+## Precursor
+
+This app started as a simple weight percentage calculator. I built it to quickly find weights needed for workouts. It's built on Angular and hosted at <https://stephencavender.github.io/ng-percentages-calc/>. Source is at <https://github.com/StephenCavender/ng-percentages-calc>.
