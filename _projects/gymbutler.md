@@ -2,6 +2,7 @@
 title: 'Gymbutler'
 excerpt: 'Fitness Tools'
 author_profile: true
+featured: true
 header:
   teaser: /assets/images/projects/gymbutler/teaser.webp
   image: /assets/images/projects/gymbutler/header.webp

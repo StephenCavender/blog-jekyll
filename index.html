@@ -11,4 +11,18 @@ author_profile: true
 
 <p>I enjoy coding, guitar, crossfit, video games, whiskey, and <a href="https://strenuouslife.co/">doing hard things</a>.</p>
 
-<!-- TODO: featured projects -->
+{% assign projects = site.projects | where: "featured", true %}
+<div class="entries-grid">
+{% for project in projects %}
+  <a href={{ project.url }}>
+    <div class="grid__item">
+      <article class="archive__item">
+        <div class="archive__item-teaser">
+          <img src="{{ project.header.teaser }}" />
+        </div>
+        {{ project.title }}
+      </article> 
+    </div>
+  <a/>
+{% endfor %}
+</div>

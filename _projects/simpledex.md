@@ -2,6 +2,7 @@
 title: 'SimpleDex'
 excerpt: 'The Simple Pokèdex'
 author_profile: true
+featured: true
 header:
   teaser: /assets/images/projects/simpledex/teaser.jpg
   image: /assets/images/projects/simpledex/header.jpg
